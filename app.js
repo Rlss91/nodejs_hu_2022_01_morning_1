@@ -47,3 +47,6 @@ app.use("/", indexRouter);
 app.use("/about", aboutRouter);
 
 module.exports = app;
+
+// c:\windows\system32 - windows
+// c:/windows/system32 - unix
